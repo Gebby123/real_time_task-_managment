@@ -20,11 +20,11 @@ const Footer = () => {
         </Link>
         <Link
           id="dev-link"
-          to={DEV_CONTACT_URL}
+          to={"https://portfolio-gebby.vercel.app/"}
           target="_blank"
           title="Contact the developer"
         >
-          Contact the developer 
+          Contact the developer
         </Link>
       </div>
     </footer>
